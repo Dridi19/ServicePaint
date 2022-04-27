@@ -1,4 +1,4 @@
-![ServicePaint-master](paint.png)
+![ServicePaint-master](paint.PNG)
 ### <p align="center"> ServicePaint • </p>
 
 ### 1. Description
